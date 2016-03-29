@@ -9,6 +9,7 @@ tags:
 - 雅薇公主
 ---
 ![](/images/childhood/20160328/01.png)
+<!-- more -->
 ![](/images/childhood/20160328/02.png)
 ![](/images/childhood/20160328/03.png)
 ![](/images/childhood/20160328/04.png)

@@ -5,6 +5,11 @@ categories:
 - 文艺青年
 tags:
 - 诗情画意
+thumbnailImage: 01.jpg
+coverImage: touxiag.png
+thumbnailImagePosition: right
+autoThumbnailImage: yes
+metaAlignment: center
 ---
 {% blockquote 元·张可久, 《清江引·秋怀》 %}
 西风信来家万里，问我归期未？

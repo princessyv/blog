@@ -5,14 +5,19 @@ categories:
 - 文艺青年
 tags:
 - 书评
+thumbnailImage: 01.jpg
+coverImage: touxiag.png
+thumbnailImagePosition: left
+autoThumbnailImage: yes
+metaAlignment: center
 ---
 寒风刮面，寂寞如海。回转凝眸之间，黑发如飞，白衣胜雪，他肆意挥洒着绝世的落拓与孤寂，长剑翻转天地，一瞬成就绝杀。血雨如风，最后一滴腥红落地之时，宝剑藏锋，时空流转，人，已在千里之外。
+
+<!-- more -->
 
 这个场景曾频繁出现在我的梦境中。那段时间，正是我沉迷在那个人构筑的世界里，如痴如醉的时候。
 
 那个人，便是古龙。
-
-<!-- more -->
 
 古龙，台北生人，父薄情，母早逝，早岁不幸，为生计踏上写作之路。腕痛伴其一生，身边曾有佳人无数，然英年早逝，唯有酒伴之长眠。
 

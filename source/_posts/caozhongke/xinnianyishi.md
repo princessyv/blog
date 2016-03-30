@@ -5,9 +5,9 @@ categories:
 tags:
   - 草中客
 date: 2016-02-06 10:15:10
-thumbnailImage: 01.png
-coverImage: touxiag.png
-thumbnailImagePosition: left
+thumbnailImage: 01.jpg
+coverImage: 02.jpg
+thumbnailImagePosition: right
 autoThumbnailImage: yes
 metaAlignment: center
 ---

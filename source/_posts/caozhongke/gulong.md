@@ -1,12 +1,12 @@
 ---
 title: 书・古龙
-date: 2016-03-29 13:01:08
+date: 2016-03-29 13:01:10
 categories:
-- 文艺青年
+- 品茗听雨
 tags:
 - 书评
 thumbnailImage: 01.jpg
-coverImage: touxiag.png
+coverImage: 02.jpg
 thumbnailImagePosition: left
 autoThumbnailImage: yes
 metaAlignment: center

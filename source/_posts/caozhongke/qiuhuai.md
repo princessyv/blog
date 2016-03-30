@@ -1,13 +1,13 @@
 ---
 title: 清江引・秋怀
-date: 2016-03-29 13:01:08
+date: 2016-03-29 13:02:08
 categories:
 - 文艺青年
 tags:
 - 诗情画意
 thumbnailImage: 01.jpg
-coverImage: touxiag.png
-thumbnailImagePosition: right
+coverImage: 02.jpg
+thumbnailImagePosition: left
 autoThumbnailImage: yes
 metaAlignment: center
 ---

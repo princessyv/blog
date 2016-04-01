@@ -19,9 +19,12 @@ metaAlignment: center
 + [加拿大：研文与硕士的区别](http://old.jjl.cn/xiamen/jctj/567318.shtml)
 + [加拿大留学：研究生文凭和硕士的六大区别](http://learning.sohu.com/20150428/n411992584.shtml)
 + [你真的了解加拿大研究生文凭吗？](https://www.douban.com/group/topic/79543443/)
++ [Graduate certificate](https://en.wikipedia.org/wiki/Graduate_certificate#Canada)
++ [Graduate diploma](https://en.wikipedia.org/wiki/Graduate_diploma)
 
 ## 项目
-+ [Mcgill Graduate Programs](https://www.mcgill.ca/continuingstudies/programs-and-courses)
++ [Mcgill University Graduate Programs](https://www.mcgill.ca/continuingstudies/programs-and-courses)
++ [Concordia University Graduate Programs](http://www.concordia.ca/academics/graduate.html)
 
 ## 申请心得
 [一年制的研文毕业的移民申请心得](http://tieba.baidu.com/p/2815275150)

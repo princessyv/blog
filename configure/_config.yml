@@ -35,6 +35,10 @@ sidebar:
             title: global.home
             url: /
             icon: home
+        photo-everyday:
+            title: global.photo-everyday
+            url: /photo-everyday
+            icon: camera
         categories:
             title: global.categories
             url: /all-categories
@@ -170,7 +174,7 @@ disqus_shortname:
 # Your Duoshuo shortname
 duoshuo_shortname:
 # Your Google analystics web property ID : UA-XXXXX-X
-google_analytics_id:
+google_analytics_id: UA-75705052-1
 # Your Baidu analystics web property ID : 9505a5af654a2478f93fd6c0ae4f687d
 baidu_analytics_id:
 # Your Gravatar email. Overwrite `author.picture` everywhere in the blog

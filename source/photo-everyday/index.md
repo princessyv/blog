@@ -57,3 +57,4 @@ layout: "post"
 {% image fancybox left group:selfie photos/2016/04/20160403.jpg 120px "2016年04月03日" %}
 {% image fancybox left group:selfie photos/2016/04/20160404-1.jpg 120px "2016年04月04日" %}
 {% image fancybox left group:selfie photos/2016/04/20160404-2.jpg 120px "2016年04月04日" %}
+{% image fancybox left group:selfie photos/2016/04/20160410.jpg 120px "2016年04月10日" %}

@@ -39,8 +39,10 @@ Welcome to my world！欢迎来到，我的世界。
 {% image left clear group:paris jichang.jpg 720px "戴高乐机场" %}
 还记得我们初次的相遇，在风光旖旎的巴黎，但其实仔细想想那时候发生了不少囧事。闺蜜刚下飞机就发现箱子坏掉，我在地铁里手机被偷连累你陪着跑警察局，你去酒店找我们吃早餐却被收了十欧的早餐费。我原以为过了这么久记忆早已模糊，回想起来记忆却如此鲜活。
 
-{% image fancybox left group:paris 2persons.jpg 320px "巴黎圣母院" %}
-{% image fancybox left clear group:paris fanersai.jpg 320px "凡尔赛宫前" %}
+{% image fancybox left group:paris 2persons.jpg 370px "巴黎圣母院" %}
+{% image fancybox left clear group:paris fanersai.jpg 370px "凡尔赛宫前" %}
+{% image fancybox left group:paris toupai-1.jpg 370px "巴黎的偷拍照，多么有爱哈哈哈" %}
+{% image fancybox left clear group:paris toupai-2.jpg 370px "人家那时候就对你暗送秋波了呢，就是你太迟钝米感觉木哈哈" %}
 
 在典雅肃穆的卢浮宫，在富丽奢华的凡尔赛，在华灯初上的香榭丽舍，巴黎的各个角落都留下了我们的足迹。晚餐时我们总是对着不知所云的菜单沉默良久，终于有一次，对一个态度不错的侍应生，我们说，来照一张合影吧。
 {% image left clear group:paris hezhao.jpg 750px "巴黎唯一的合照" %}

@@ -67,3 +67,8 @@ layout: "post"
 {% image fancybox left group:selfie photos/2016/04/20160411.jpg 120px "2016年04月11日" %}
 {% image fancybox left group:selfie photos/2016/04/20160412.jpg 120px "2016年04月12日" %}
 {% image fancybox left group:selfie photos/2016/04/20160413.jpg 120px "2016年04月13日" %}
+{% image fancybox left group:selfie photos/2016/04/20160424.jpg 120px "2016年04月24日" %}
+{% image fancybox left group:selfie photos/2016/04/20160425.jpg 120px "2016年04月25日" %}
+{% image fancybox left group:selfie photos/2016/04/20160426.jpg 120px "2016年04月26日" %}
+{% image fancybox left group:selfie photos/2016/04/20160428.jpg 120px "2016年04月28日" %}
+{% image fancybox left group:selfie photos/2016/04/20160430.jpg 120px "2016年04月30日" %}

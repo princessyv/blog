@@ -9,7 +9,8 @@ layout: "post"
 {% image fancybox left group:selfie photos/2016/04/20160403-1.jpg 120px "美丽的小姨子" %}
 {% image fancybox left group:selfie photos/2016/04/20160403-2.jpg 120px "美丽的小姨子" %}
 {% image fancybox left group:selfie photos/2016/04/20160403-3.jpg 120px "美丽的小姨子" %}
-{% image fancybox left clear group:selfie photos/2016/04/20160403-4.jpg 120px "美丽的小姨子" %}
+{% image fancybox left group:selfie photos/2016/04/20160403-4.jpg 120px "美丽的小姨子" %}
+{% image fancybox left clear group:selfie photos/2016/04/20160416.jpg 120px "美丽的小姨子" %}
 
 # 乙未羊年
 
@@ -67,6 +68,15 @@ layout: "post"
 {% image fancybox left group:selfie photos/2016/04/20160411.jpg 120px "2016年04月11日" %}
 {% image fancybox left group:selfie photos/2016/04/20160412.jpg 120px "2016年04月12日" %}
 {% image fancybox left group:selfie photos/2016/04/20160413.jpg 120px "2016年04月13日" %}
+{% image fancybox left group:selfie photos/2016/04/20160414.jpg 120px "2016年04月14日" %}
+{% image fancybox left group:selfie photos/2016/04/20160415.jpg 120px "2016年04月15日" %}
+{% image fancybox left group:selfie photos/2016/04/20160416.jpg 120px "2016年04月16日" %}
+{% image fancybox left group:selfie photos/2016/04/20160417.jpg 120px "2016年04月17日" %}
+{% image fancybox left group:selfie photos/2016/04/20160418.jpg 120px "2016年04月18日" %}
+{% image fancybox left group:selfie photos/2016/04/20160419.jpg 120px "2016年04月19日" %}
+{% image fancybox left group:selfie photos/2016/04/20160420-1.jpg 120px "2016年04月20日" %}
+{% image fancybox left group:selfie photos/2016/04/20160420-2.jpg 120px "2016年04月20日" %}
+{% image fancybox left group:selfie photos/2016/04/20160421.jpg 120px "2016年04月21日" %}
 {% image fancybox left group:selfie photos/2016/04/20160422.jpg 120px "2016年04月22日" %}
 {% image fancybox left group:selfie photos/2016/04/20160423.jpg 120px "2016年04月23日" %}
 {% image fancybox left group:selfie photos/2016/04/20160424.jpg 120px "2016年04月24日" %}

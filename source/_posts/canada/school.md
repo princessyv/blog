@@ -30,3 +30,8 @@ metaAlignment: center
 [一年制的研文毕业的移民申请心得](http://tieba.baidu.com/p/2815275150)
 
 # 两年制硕士
+## University of Ottawa
+[Linguistics] (http://www.uottawa.ca/graduate-studies/future-students/programs/linguistics)
+## Carleton University
+[Applied Linguistics & Discourse Studies](http://carleton.ca/slals/graduate/)
+[International Affairs](https://graduate.carleton.ca/programs/international-affairs-masters/)

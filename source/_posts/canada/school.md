@@ -31,7 +31,7 @@ metaAlignment: center
 
 # 两年制硕士
 ## University of Ottawa
-[Linguistics] (http://www.uottawa.ca/graduate-studies/future-students/programs/linguistics)
+[Linguistics](http://www.uottawa.ca/graduate-studies/future-students/programs/linguistics)
 ## Carleton University
 [Applied Linguistics & Discourse Studies](http://carleton.ca/slals/graduate/)
 [International Affairs](https://graduate.carleton.ca/programs/international-affairs-masters/)

@@ -13,6 +13,7 @@ metaAlignment: center
 ---
 加拿大院校申请相关资源。
 <!-- more -->
++ [Ontario大学列表及各学校截止日期](http://www.ouac.on.ca/unilinks/)
 # 一年制研究生文凭
 ## 介绍
 + [研究生文凭不等同于硕士文凭](http://college.zhan.com/raider/29118.html)
@@ -35,3 +36,6 @@ metaAlignment: center
 ## Carleton University
 [Applied Linguistics & Discourse Studies](http://carleton.ca/slals/graduate/)
 [International Affairs](https://graduate.carleton.ca/programs/international-affairs-masters/)
+## Queen's University
++ [Programs](http://www.queensu.ca/academics/programs)
+[Master of Industrial Relations](http://mir.queensu.ca/index.cfm/academic-programs/master-of-industrial-relations/)

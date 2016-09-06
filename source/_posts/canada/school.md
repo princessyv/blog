@@ -33,9 +33,17 @@ metaAlignment: center
 # 两年制硕士
 ## University of Ottawa
 [Linguistics](http://www.uottawa.ca/graduate-studies/future-students/programs/linguistics)
+
 ## Carleton University
 [Applied Linguistics & Discourse Studies](http://carleton.ca/slals/graduate/)
 [International Affairs](https://graduate.carleton.ca/programs/international-affairs-masters/)
+
 ## Queen's University
 + [Programs](http://www.queensu.ca/academics/programs)
 [Master of Industrial Relations](http://mir.queensu.ca/index.cfm/academic-programs/master-of-industrial-relations/)
+
+## Trent University
++ [语言要求](https://www.trentu.ca/futurestudents/graduate/requirements/english-proficiency-requirements)
++ [Programs](https://www.trentu.ca/futurestudents/graduate/programs)
+++ [Educational Studies](https://www.trentu.ca/futurestudents/degree/educational-studies-med?target=graduate)
+++ [	Theory, Culture & Politics](https://www.trentu.ca/futurestudents/degree/theory-culture-politics-ma?target=graduate)

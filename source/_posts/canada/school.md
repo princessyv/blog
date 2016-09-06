@@ -43,7 +43,13 @@ metaAlignment: center
 [Master of Industrial Relations](http://mir.queensu.ca/index.cfm/academic-programs/master-of-industrial-relations/)
 
 ## Trent University
-+ [语言要求](https://www.trentu.ca/futurestudents/graduate/requirements/english-proficiency-requirements)
++ [English Requirement](https://www.trentu.ca/futurestudents/graduate/requirements/english-proficiency-requirements)
 + [Programs](https://www.trentu.ca/futurestudents/graduate/programs)
 ++ [Educational Studies](https://www.trentu.ca/futurestudents/degree/educational-studies-med?target=graduate)
 ++ [	Theory, Culture & Politics](https://www.trentu.ca/futurestudents/degree/theory-culture-politics-ma?target=graduate)
+
+## McMASTER University
++ [English Requirement](http://future.mcmaster.ca/admission/language/)
++ [Programs](http://graduate.mcmaster.ca/programs)
+++ [Globalization](http://graduate.mcmaster.ca/programs/globalization)
+++ [International Relations](http://graduate.mcmaster.ca/programs/international-relations)

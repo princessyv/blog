@@ -1,5 +1,5 @@
 # Tranquilpeak
-# Version : 1.7.0
+# Version : 1.9.1
 # Author : Louis Barranqueiro
 
 # I STRONGLY recommend you to use a CDN to speed up loading of pages.
@@ -55,8 +55,8 @@ sidebar:
             title: global.search
             url: /#search
             icon: search
-            # `st-search-show-outputs` classes are used to open swiftype search window
-            class: st-search-show-outputs
+            # `open-algolia-search` classes are used to open algolia search modal
+            class: open-algolia-search
         about:
             title: global.about
             url: /#about
@@ -179,8 +179,6 @@ google_analytics_id: UA-75705052-1
 baidu_analytics_id:
 # Your Gravatar email. Overwrite `author.picture` everywhere in the blog
 gravatar_email:
-# Your swiftype install key
-swiftype_install_key:
 # Your Facebook user ids used to connect your blog with your facebook user accounts (Facebook Insights). Separate ids with comma. e.g : 9830047,1003342
 fb_admin_ids:
 # Your Facebook app id used to connect your blog with your facebook app account (Facebook Insights). E.g : 9841307

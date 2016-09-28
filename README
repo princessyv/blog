@@ -5,8 +5,8 @@
 3. copy files of the temporary fold into princessyv folder.
   > rm temp/_config.yml
   > cp -R temp/* princessyv/
-4. clone tranquilpeak repository into tranquilpeak folder.
-  > git clone https://github.com/LouisBarranqueiro/hexo-theme-tranquilpeak.git tranquilpeak
+4. download newest version via the website below and unzip it into tranquilpeak folder.
+  https://github.com/LouisBarranqueiro/hexo-theme-tranquilpeak
 5. copy tranquilpeak folder into themes folder
   > cp -R tranquilpeak princessyv/themes
 6. copy personalities into tranquilpeak folders.

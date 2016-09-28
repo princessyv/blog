@@ -75,3 +75,18 @@ feed:
     type: atom
     path: atom.xml
     limit: 20
+
+algolia:
+  appId: "A8L291SSBZ"
+  apiKey: "af9309fa53ccded7dc0a897a06f4d7c8"
+  adminApiKey: "fa96a6955b8ce6bff3f0aacbaff77c56"
+  chunkSize: 5000
+  indexName: "Dear Princess Yawei"
+  fields:
+    - title
+    - tags
+    - slug
+    - excerpt
+    - excerpt:strip
+    - photos
+    - gallery

@@ -60,3 +60,10 @@ metaAlignment: center
 * [English Proficiency Requirement](https://www.mcgill.ca/gradapplicants/international/apply/proficiency)
 * [Programs](https://www.mcgill.ca/gradapplicants/programs)
   * [Linguistics](https://www.mcgill.ca/gradapplicants/linguistics-0)
+
+## 温莎大学(University of Windsor)
+* [简介](http://baike.baidu.com/view/608317.htm)
+* [English Proficiency Requirement](http://www1.uwindsor.ca/professional/mom-admission-requirements)
+* [Scholarship](http://www.uwindsor.ca/graduate/665/important-scholarship-deadlines)
+* [Graduate Programs](http://www.uwindsor.ca/graduate/738/graduate-programs-directory)
+  * [Management, 4 majors](http://www1.uwindsor.ca/odette/mom)

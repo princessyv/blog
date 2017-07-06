@@ -117,7 +117,7 @@ header:
 # Your biography and your job is editable in each languages files in `languages` folder
 author:
     email:
-    location:
+    location: 加拿大魁北克
     # Your profile picture located in folder `source/_images/` (development)
     # or in `source/assets/images/` (production)
     # or you can use an external url
@@ -165,7 +165,6 @@ archive_pagination: true
 category_pagination: true
 tag_pagination: true
 
-
 # Integrated services
 # You can't use Disqus and Duoshuo together
 # then fill the right shortname
@@ -183,3 +182,28 @@ gravatar_email:
 fb_admin_ids:
 # Your Facebook app id used to connect your blog with your facebook app account (Facebook Insights). E.g : 9841307
 fb_app_id:
+
+
+# Sharing options
+# Comment and uncomment to enable or disable sharing options
+# If you wanna add a sharing option, read user documentation :
+# Tranquilpeak configuration > Theme configuration > sharing-options
+sharing_options:
+    # Asian social networks
+    weibo:
+        title: "Weibo"
+        icon: "fa-weibo"
+        url: "http://service.weibo.com/share/share.php?&title={{post.permalink}}"
+    qq:
+        title: "QQ"
+        icon: "fa-qq"
+        url: "http://connect.qq.com/widget/shareqq/index.html?url={{post.permalink}}&title={{post.title}}"
+    qzone:
+        title: "Qzone"
+        icon: "fa-star"
+        url: "http://sns.qzone.qq.com/cgi-bin/qzshare/cgi_qzshare_onekey?url={{post.permalink}}"
+    renren:
+        title: "Renren"
+        icon: "fa-renren"
+        url: "http://widget.renren.com/dialog/share?resourceUrl={{post.permalink}}"
+
